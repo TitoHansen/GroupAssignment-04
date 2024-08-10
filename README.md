@@ -3,7 +3,7 @@
 **Final Project for 24S Client-Side JavaScript - 200**  
 **ILAC Georgian College**
 
-![Screenshot of the app](./images/screenshot.png)
+![Screenshot of the app](./images/[screenshot.png](https://github.com/TitoHansen/GroupAssignment-04/blob/main/screencapture-127-0-0-1-5500-index-html-2024-08-10-17_46_28.png))
 
 
 ## Overview
