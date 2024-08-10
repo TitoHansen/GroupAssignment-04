@@ -4,7 +4,7 @@
 **ILAC Georgian College**
 
 ![Astronomy Picture of the Day](https://apod.nasa.gov/apod/image/2408/M20OriginalLRGBHaO3S2_1024x735.jpg)
-![Screenshot of the app](./images/screenshot.png)
+![Screenshot of the app](./images/screencapture-127-0-0-1-5500-index-html-2024-08-10-17_46_28.png)
 
 
 
