@@ -3,7 +3,7 @@
 **Final Project for 24S Client-Side JavaScript - 200**  
 **ILAC Georgian College**
 
-![Astronomy Picture of the Day](https://apod.nasa.gov/apod/image/2308/NGC6914_Hubble_960.jpg)
+![Astronomy Picture of the Day](https://apod.nasa.gov/apod/image/2408/M20OriginalLRGBHaO3S2_1024x735.jpg)
 
 
 
