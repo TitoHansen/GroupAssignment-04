@@ -3,7 +3,7 @@
 **Final Project for 24S Client-Side JavaScript - 200**  
 **ILAC Georgian College**
 
-![APOD](https://apod.nasa.gov/apod/image/2308/NGC6914_Hubble_960.jpg)
+
 
 ## Overview
 
